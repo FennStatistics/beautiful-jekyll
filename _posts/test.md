@@ -1,12 +1,11 @@
 ---
-title: "Your title here"
-author: "Your name here"
-output:
-  bookdown::html_document2: default
-bibliography: LibraryAll.bib
-biblio-style: "apalike"
-link-citations: true
+layout: post
+title: "test markdown 2"
+subtitle: Each post also has a subtitle
+tags: [test]
+comments: true
 ---
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, eval=FALSE)
 ```
@@ -14,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE, eval=FALSE)
 
 # Super Test 1
 
-@kurtz2018value
+
 
 Mplus Code:
 ```{r cars}
@@ -24,4 +23,4 @@ iW sW | skles_w3@0 skles_w5@1 skles_w6@2;
 
 ## References
 
-Hallo wdskjdfkfd kjdsf jf 
+
