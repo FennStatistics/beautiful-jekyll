@@ -1,11 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Theories, Statistics
+title: Theories, Statistics, Projects
 
 # Short description of your site
-description: Statistics and theories related to questionnaires, material for teaching. Further presenting actual two projects: 
-1) fully automated web scrapping, 2) psychological consctruct within large scale-assessments
+description: Statistics and theories related to questionnaires and material for teaching statistics. Further presenting actual two projects: 1) fully automated web scrapping, 2) psychological consctruct within large scale-assessments
 
 
 # --- Local development options ---
@@ -22,11 +21,10 @@ description: Statistics and theories related to questionnaires, material for tea
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -62,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Julius Fenn
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -70,12 +68,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "fenn.statistics@posteo.de"
+#  facebook: deanattali
+#  github: daattali
+#  twitter: daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -95,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "back to start page"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
